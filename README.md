@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 01/05/2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,14 @@
 
 ## Input:
 
+![Screenshot 2024-05-06 174624](https://github.com/Saravanan2512/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979117/20e6262b-44a8-4066-864b-d342d48eefd6)
+
 ### Output:
+![Screenshot 2024-05-06 174532](https://github.com/Saravanan2512/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144979117/f0214113-5419-4d24-b908-02b68e4f8175)
 
 
-### Name:
-### Register Number:
+### Name: SARAVANAN G
+### Register Number: 2122232301944
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
